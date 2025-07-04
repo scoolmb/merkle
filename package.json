@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Dropsy",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "@types/node": "^24.0.10",
